@@ -1,0 +1,17 @@
+<students>
+    <student sr="1">
+        <Sl.No.> 23 </Sl.No.>
+        <NAME> John Carter </NAME>
+        <ADMISSION-DATE>25/12/2015  </ADMISSION-DATE>
+    </student>
+    <student sr="2">
+        <Sl.No.> 29 </Sl.No.>
+        <NAME> Bob Marshal  </NAME>
+        <ADMISSION-DATE>13/01/1999  </ADMISSION-DATE>
+    </student>
+    <student sr="3">
+        <Sl.No.> 35 </Sl.No.>
+        <NAME> Clark Kent </NAME>
+        <ADMISSION-DATE> 17/06/2005</ADMISSION-DATE>
+    </student>
+</students>  
